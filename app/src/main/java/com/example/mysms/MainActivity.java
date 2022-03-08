@@ -13,7 +13,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageView;
 // i am from web
-
+// i am from studio
 public class MainActivity extends AppCompatActivity {
     ImageView img;
     Animation animtn;
